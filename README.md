@@ -24,7 +24,7 @@ Este projeto foi desenvolvido como parte da Unidade Curricular **UC09 (Codifica�
 ├── img/
 │   └── (imagens e logos)   # Ativos visuais do projeto
 ├── js/
-│   ├── script.js           # Funções em JS puro (Vanilla)
+│   ├── script.js           # Funções em JS puro
 │   └── jquery-script.js    # Scripts utilizando a biblioteca jQuery
 ├── index.html              # Página principal
 └── login.html              # Página de acesso e cadastro
